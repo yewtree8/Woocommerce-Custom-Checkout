@@ -22,7 +22,7 @@ This was somewhat "hacked" together by me in an untraditional sense as this was 
 - All testing was done by myself in order to prevent exploits and losses for the company.
 - Again back end code is on a computer in london for the time being, once I have access I will upload.
 
-## Video Demo!
+## Video Demo (Watch on 1.50 speed)
 
 [![Watch the video](https://img.youtube.com/vi/I-D-jXqDA8A/hqdefault.jpg)](https://youtu.be/I-D-jXqDA8A)
 
